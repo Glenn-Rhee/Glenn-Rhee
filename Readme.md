@@ -39,9 +39,3 @@ I'm a passionate **Full-Stack Developer** specializing in **Next.js** with a str
 
 [Instagram](https://www.instagram.com/aaarrl.r/) | [Portfolio](https://ariel-rizki-portofolio.vercel.app/)
 
----
-
-## 🎉 Fun Fact
-
-![Funny GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
