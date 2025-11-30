@@ -37,7 +37,7 @@ I'm a passionate **Full-Stack Developer** specializing in **Next.js** with a str
 
 ## Github Statistics
 <p align="left">
-<a href="https://github.com/penhele">
+<a href="https://github.com/Glenn-Rhee">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Glenn-Rhee&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Glenn-Rhee&layout=compact&layout=compact&theme=algolia"/>
 </a>
