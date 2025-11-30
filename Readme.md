@@ -35,6 +35,16 @@ I'm a passionate **Full-Stack Developer** specializing in **Next.js** with a str
 
 ---
 
+## Github Statistics
+<p align="left">
+<a href="https://github.com/penhele">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Glenn-Rhee&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Glenn-Rhee&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
+
+---
+
 ## 📫 Connect with me
 
 [![Instagram](https://user-images.githubusercontent.com/113854425/84545c36-e44d-4e0b-9360-d9bef5313110.png)](https://www.instagram.com/aaarrl.r/)  
