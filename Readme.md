@@ -35,12 +35,6 @@ I'm a passionate **Full-Stack Developer** specializing in **Next.js** with a str
 
 ---
 
-## 📊 GitHub Stats
-
-![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glenn-Rhee&show_icons=true&theme=radical)
-
----
-
 ## 📫 Connect with me
 
 [![Instagram](https://user-images.githubusercontent.com/113854425/84545c36-e44d-4e0b-9360-d9bef5313110.png)](https://www.instagram.com/aaarrl.r/)  
