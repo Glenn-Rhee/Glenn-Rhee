@@ -46,6 +46,8 @@ I'm a passionate **Full-Stack Developer** specializing in **Next.js** with a str
 ---
 
 ## 📫 Connect with me
+- [Linkedin](https://www.linkedin.com/in/ariel-rizki-21b032287/) : @ariel-rizki-21b032287
+- [Instagram](https://www.instagram.com/aaarrl.r/) : @aaarrl.r
+- [Github](https://github.com/Glenn-Rhee) : @Glenn-Rhee
+- [Portfolio](https://ariel-rizki-portofolio.vercel.app/) : My Portofolio
 
-[![Instagram](https://user-images.githubusercontent.com/113854425/84545c36-e44d-4e0b-9360-d9bef5313110.png)](https://www.instagram.com/aaarrl.r/)  
-[Portfolio](https://ariel-rizki-portofolio.vercel.app/)
