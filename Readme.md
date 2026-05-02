@@ -20,7 +20,7 @@ I'm a passionate **Full-Stack Developer** specializing in **Next.js** with a str
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### Lea Juice App
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/Glenn-Rhee/lea-juice-app)  
@@ -46,7 +46,7 @@ I'm a passionate **Full-Stack Developer** specializing in **Next.js** with a str
 
 ---
 
-## 📫 Connect with me
+## Connect with me
 - [Linkedin](https://www.linkedin.com/in/ariel-rizki-21b032287/) : @ariel-rizki-21b032287
 - [Instagram](https://www.instagram.com/aaarrl.r/) : @aaarrl.r
 - [Github](https://github.com/Glenn-Rhee) : @Glenn-Rhee
