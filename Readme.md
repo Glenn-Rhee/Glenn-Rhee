@@ -34,6 +34,13 @@ I'm a passionate **Full-Stack Developer** specializing in **Next.js** with a str
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/Glenn-Rhee/sistem-informasi-kkp)  
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=vercel)](https://sistem-informasi-kkp.vercel.app/)
 
+### Indra Farma - Frontend
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/Glenn-Rhee/inventory-indra)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=vercel)](https://inventory-indra.vercel.app/)
+
+### Indra Farma - Backend
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/Glenn-Rhee/inventory-indra-be)
+
 ---
 
 ## Github Statistics
@@ -47,7 +54,7 @@ I'm a passionate **Full-Stack Developer** specializing in **Next.js** with a str
 ---
 
 ## Connect with me
-- [Linkedin](https://www.linkedin.com/in/ariel-rizki-21b032287/) : @ariel-rizki-21b032287
+- [Linkedin](https://www.linkedin.com/in/aaarrl/) : @aaarrl
 - [Instagram](https://www.instagram.com/aaarrl.r/) : @aaarrl.r
 - [Github](https://github.com/Glenn-Rhee) : @Glenn-Rhee
 - [Portfolio](https://ariel-rizki-portofolio.vercel.app/) : My Portofolio
